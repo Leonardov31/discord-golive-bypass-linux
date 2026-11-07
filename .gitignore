@@ -1,0 +1,7 @@
+/build/
+*.conf
+*.key
+.env
+.env.*
+.idea/
+.vscode/
